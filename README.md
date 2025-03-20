@@ -51,8 +51,3 @@ Följ dessa steg för att komma igång med att blinka en LED på din Raspberry P
 5. **Följ stegen för att koppla upp och köra koden**:
    - Efter att du kopierat filen till Pico kommer den starta om och börja köra programmet, och LED-lampan ska börja blinka!
 
-## Sammanfattning
-
-- **GPIO 16** används för att styra en LED.
-- Följ stegen för att bygga och ladda upp programmet till din Pico.
-- LED-lampan blinkar var 255:e millisekund.
