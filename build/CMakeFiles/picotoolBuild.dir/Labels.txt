@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/Users/gulbaran/pico/my_pico_project/build/CMakeFiles/picotoolBuild
+/Users/gulbaran/pico/my_pico_project/build/CMakeFiles/picotoolBuild.rule
+/Users/gulbaran/pico/my_pico_project/build/CMakeFiles/picotoolBuild-complete.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/Users/gulbaran/pico/my_pico_project/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

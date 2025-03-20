@@ -1,0 +1,5 @@
+/Users/gulbaran/pico/my_pico_project/build/_deps/picotool/picotool
+/Users/gulbaran/pico/my_pico_project/build/_deps/picotool/picotoolTargets.cmake
+/Users/gulbaran/pico/my_pico_project/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/gulbaran/pico/my_pico_project/build/_deps/picotool/picotoolConfig.cmake
+/Users/gulbaran/pico/my_pico_project/build/_deps/picotool/picotoolConfigVersion.cmake
