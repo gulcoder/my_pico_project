@@ -1,0 +1,18 @@
+# Ignore build and other temporary files
+build/
+*.uf2
+*.o
+*.elf
+*.bin
+*.map
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Ignore IDE files
+.vscode/
+.idea/
+
